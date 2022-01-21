@@ -1,0 +1,2 @@
+example script for running Gaussian on CURC
+to run a job: "sbatch testscript_g16.sh"
