@@ -1,1 +1,1 @@
-# CHEM4555_Spring_2022
+materials for chem4555 CURC introduction
